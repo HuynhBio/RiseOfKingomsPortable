@@ -1,0 +1,10 @@
+{
+	"automaticStart" : false,
+	"closeToHide" : false,
+	"downloadLimit" : false,
+	"downloadSpeed" : 4096,
+	"gamePath" : "Rise of Kingdoms Game",
+	"languageType" : 5,
+	"predlcLimit" : false,
+	"predlcSpeed" : 4096
+}

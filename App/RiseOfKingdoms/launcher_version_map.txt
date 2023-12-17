@@ -1,0 +1,366 @@
+{
+	"list" : 
+	{
+		"cef/cef.pak" : 
+		{
+			"md5" : "4d991b6db94e823aac8cef6eb1959662",
+			"size" : 2322682
+		},
+		"cef/cef_100_percent.pak" : 
+		{
+			"md5" : "ad2ddfc39c78eedc734af6506a579a8c",
+			"size" : 144747
+		},
+		"cef/cef_200_percent.pak" : 
+		{
+			"md5" : "66fa52c0523ae2ec18c37960e4eb3e6a",
+			"size" : 233072
+		},
+		"cef/cef_extensions.pak" : 
+		{
+			"md5" : "6e727928ebeeeb5847c65c15c41802ed",
+			"size" : 4282175
+		},
+		"cef/cef_helper.exe" : 
+		{
+			"md5" : "268c09b97ec97307464edc76e51fae9d",
+			"size" : 423768
+		},
+		"cef/d3dcompiler_43.dll" : 
+		{
+			"md5" : "10a7a235cdba26ef1cd30fa89ab300b3",
+			"size" : 2110808
+		},
+		"cef/d3dcompiler_47.dll" : 
+		{
+			"md5" : "da234a040ecdc370d4c369de8b037ea6",
+			"size" : 4466008
+		},
+		"cef/devtools_resources.pak" : 
+		{
+			"md5" : "37936cb4d567ec68a1f22b5f923fd14f",
+			"size" : 4664978
+		},
+		"cef/dummy_cmd.exe" : 
+		{
+			"md5" : "d41d8cd98f00b204e9800998ecf8427e",
+			"size" : 0
+		},
+		"cef/icudtl.dat" : 
+		{
+			"md5" : "d03ad9a1189d190119209072d048e428",
+			"size" : 10207936
+		},
+		"cef/libEGL.dll" : 
+		{
+			"md5" : "d721e56009f8ab2ea1c2657a705dcdce",
+			"size" : 97624
+		},
+		"cef/libGLESv2.dll" : 
+		{
+			"md5" : "718a10bb9166f61824522f6d4b9b372e",
+			"size" : 2140504
+		},
+		"cef/locales/am.pak" : 
+		{
+			"md5" : "c8e9074faa1d9428089fe39a6340c43d",
+			"size" : 67979
+		},
+		"cef/locales/ar.pak" : 
+		{
+			"md5" : "3e0f34e58af836de6b1ffa787e0653b2",
+			"size" : 67998
+		},
+		"cef/locales/bg.pak" : 
+		{
+			"md5" : "5db5f8e5b0b52076aa0462d382c15c4d",
+			"size" : 75625
+		},
+		"cef/locales/bn.pak" : 
+		{
+			"md5" : "1442225a0a7fd12ca7ed34f6ed37ff22",
+			"size" : 100062
+		},
+		"cef/locales/ca.pak" : 
+		{
+			"md5" : "63f9363aa965e0b6835b1b84c48b1ae8",
+			"size" : 49278
+		},
+		"cef/locales/cs.pak" : 
+		{
+			"md5" : "4d08959d93c5f8f665ef2824856f5e64",
+			"size" : 49160
+		},
+		"cef/locales/da.pak" : 
+		{
+			"md5" : "b99e86c8f7b181322ece052e1a57a2be",
+			"size" : 44996
+		},
+		"cef/locales/de.pak" : 
+		{
+			"md5" : "6a2b3005805a7500570e442251efebe8",
+			"size" : 48672
+		},
+		"cef/locales/el.pak" : 
+		{
+			"md5" : "9ca20da58e84e6f426deaf7821530ec6",
+			"size" : 84473
+		},
+		"cef/locales/en-GB.pak" : 
+		{
+			"md5" : "3a0a0f6b73f7f7e8a021ee435f494139",
+			"size" : 40510
+		},
+		"cef/locales/en-US.pak" : 
+		{
+			"md5" : "ea20f7ef299ca680a72e9163c8ed0093",
+			"size" : 40614
+		},
+		"cef/locales/es-419.pak" : 
+		{
+			"md5" : "4e39e879e5a53df3d78db05328bfe87e",
+			"size" : 47850
+		},
+		"cef/locales/es.pak" : 
+		{
+			"md5" : "3a7434e0ede68cd976502cf490c6b8e2",
+			"size" : 49520
+		},
+		"cef/locales/et.pak" : 
+		{
+			"md5" : "efde79dd01a9a54343213e92e0f0fd17",
+			"size" : 42620
+		},
+		"cef/locales/fa.pak" : 
+		{
+			"md5" : "8b70d5fd5cd6756f1741bf06bc45440c",
+			"size" : 66307
+		},
+		"cef/locales/fi.pak" : 
+		{
+			"md5" : "d4a7ba8027cfca09caf1a7296eb3e7ec",
+			"size" : 44516
+		},
+		"cef/locales/fil.pak" : 
+		{
+			"md5" : "ba30c440e34a828c656b3057a6ef50d2",
+			"size" : 49907
+		},
+		"cef/locales/fr.pak" : 
+		{
+			"md5" : "62ef4ab8c2884194759a32a45f4fc260",
+			"size" : 51933
+		},
+		"cef/locales/gu.pak" : 
+		{
+			"md5" : "470244adc1084b9411b6bd8f0a028ea7",
+			"size" : 94190
+		},
+		"cef/locales/he.pak" : 
+		{
+			"md5" : "a322fe105df1a8ff7bbb5411b2ddf744",
+			"size" : 56107
+		},
+		"cef/locales/hi.pak" : 
+		{
+			"md5" : "a8dbe08e837af7350d12b0c6797e8f26",
+			"size" : 96483
+		},
+		"cef/locales/hr.pak" : 
+		{
+			"md5" : "d88949fd915bcb7a18ad44474ef74da7",
+			"size" : 46251
+		},
+		"cef/locales/hu.pak" : 
+		{
+			"md5" : "c81df0315db423d0c318d46e8fce8e39",
+			"size" : 49509
+		},
+		"cef/locales/id.pak" : 
+		{
+			"md5" : "07428ca91eead354d60dc8fd68738f54",
+			"size" : 43040
+		},
+		"cef/locales/it.pak" : 
+		{
+			"md5" : "23f243b5399fbcf3d3a96a5219a1f80d",
+			"size" : 47456
+		},
+		"cef/locales/ja.pak" : 
+		{
+			"md5" : "b44747ce81c6936d62d52e7ce33107e7",
+			"size" : 57827
+		},
+		"cef/locales/kn.pak" : 
+		{
+			"md5" : "3a02551fee49f1fdf1d6f334e1f9c3c9",
+			"size" : 108050
+		},
+		"cef/locales/ko.pak" : 
+		{
+			"md5" : "5b3a3241d2b048074cf841cedfa48ab9",
+			"size" : 48903
+		},
+		"cef/locales/lt.pak" : 
+		{
+			"md5" : "3638ecb7e65f15945ef8f4d88c1f55ff",
+			"size" : 49505
+		},
+		"cef/locales/lv.pak" : 
+		{
+			"md5" : "4f3db8bacddf08035ed01ea66cc72d84",
+			"size" : 50527
+		},
+		"cef/locales/ml.pak" : 
+		{
+			"md5" : "e53a7a75c56a080eaf70864602fdeef0",
+			"size" : 117720
+		},
+		"cef/locales/mr.pak" : 
+		{
+			"md5" : "bc943169d21bbfd16dd412ae477b3dc0",
+			"size" : 96994
+		},
+		"cef/locales/ms.pak" : 
+		{
+			"md5" : "6cfd5b74d08c8a5d5596b4712647feef",
+			"size" : 43817
+		},
+		"cef/locales/nb.pak" : 
+		{
+			"md5" : "134cb79b07d6bfa385cdd0f93cec84e0",
+			"size" : 44056
+		},
+		"cef/locales/nl.pak" : 
+		{
+			"md5" : "264ffe560b523d126c51dceb311373cc",
+			"size" : 46022
+		},
+		"cef/locales/pl.pak" : 
+		{
+			"md5" : "854a4765cb37d769a8b108b3b6335860",
+			"size" : 48480
+		},
+		"cef/locales/pt-BR.pak" : 
+		{
+			"md5" : "d0fa28db4ee6aeff783c79b94ec50e80",
+			"size" : 47944
+		},
+		"cef/locales/pt-PT.pak" : 
+		{
+			"md5" : "3cd4193d8640c6139982f884f1e5322e",
+			"size" : 47585
+		},
+		"cef/locales/ro.pak" : 
+		{
+			"md5" : "228c2dc6de89cc5889a556b04625277d",
+			"size" : 49212
+		},
+		"cef/locales/ru.pak" : 
+		{
+			"md5" : "6cc147ff2e74eb4640a65e42f45459e1",
+			"size" : 74285
+		},
+		"cef/locales/sk.pak" : 
+		{
+			"md5" : "bd272aa038831bda0cdfab443849abbd",
+			"size" : 49566
+		},
+		"cef/locales/sl.pak" : 
+		{
+			"md5" : "a163522503dee64ed9165d7810fc2ecc",
+			"size" : 46447
+		},
+		"cef/locales/sr.pak" : 
+		{
+			"md5" : "00b884aefac9f3d2ff05f910491081b0",
+			"size" : 72828
+		},
+		"cef/locales/sv.pak" : 
+		{
+			"md5" : "f7e36957c30dfe2bd84d0e4caeb38665",
+			"size" : 43700
+		},
+		"cef/locales/sw.pak" : 
+		{
+			"md5" : "3349962c8302ccf02250964b9e16dfd9",
+			"size" : 43959
+		},
+		"cef/locales/ta.pak" : 
+		{
+			"md5" : "cee22dd06699f093804e4cc822403392",
+			"size" : 111763
+		},
+		"cef/locales/te.pak" : 
+		{
+			"md5" : "b0c9b3ca840cadb88394128a2270a648",
+			"size" : 102971
+		},
+		"cef/locales/th.pak" : 
+		{
+			"md5" : "f836e6cc433d1144620b7774f3230efe",
+			"size" : 91898
+		},
+		"cef/locales/tr.pak" : 
+		{
+			"md5" : "034cbcb6d790b30c617e3a895d7b06eb",
+			"size" : 46294
+		},
+		"cef/locales/uk.pak" : 
+		{
+			"md5" : "879bca053ba87f9a8bf03cb46438188f",
+			"size" : 77049
+		},
+		"cef/locales/vi.pak" : 
+		{
+			"md5" : "a2a7153a8b15820d1ca5be492b4d9600",
+			"size" : 53252
+		},
+		"cef/locales/zh-CN.pak" : 
+		{
+			"md5" : "c3fd82ec2cddcf7192e9de8d9834dbc5",
+			"size" : 39499
+		},
+		"cef/locales/zh-TW.pak" : 
+		{
+			"md5" : "1a09c6b7412b2a5d7f1b379dd4fcba1b",
+			"size" : 40229
+		},
+		"cef/natives_blob.bin" : 
+		{
+			"md5" : "8f4d6515f4d321313a39a659c3c5ff01",
+			"size" : 412130
+		},
+		"cef/nim_libcef.dll" : 
+		{
+			"md5" : "4c52cfc1353e7adfbdb598ca30d4a145",
+			"size" : 65779544
+		},
+		"cef/snapshot_blob.bin" : 
+		{
+			"md5" : "f4f1cb8317868f36ffb3c57978167ae6",
+			"size" : 618708
+		},
+		"cef/widevinecdm.dll" : 
+		{
+			"md5" : "1d1b37f8ede3dccb1d84e06251045f7a",
+			"size" : 177496
+		},
+		"cef/widevinecdmadapter.dll" : 
+		{
+			"md5" : "3a6182fcabc5d91202282675534e4284",
+			"size" : 244568
+		},
+		"cef/wow_helper.exe" : 
+		{
+			"md5" : "f04e8b7613a6b18ccae2d074468d9489",
+			"size" : 77656
+		},
+		"launcher.exe" : 
+		{
+			"md5" : "f059afe5991cdcb4ae3be4d21a7904d5",
+			"size" : 30926280
+		}
+	},
+	"version" : "1.0.3.3.1732"
+}
